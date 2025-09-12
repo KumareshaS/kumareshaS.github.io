@@ -5,52 +5,95 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kumaresha S - Portfolio</title>
     <style>
-        body { font-family: Arial, sans-serif; margin: 40px; }
-        h1 { color: #333; }
-        h2 { color: #555; }
-        p { line-height: 1.6; }
-        .contact, .experience, .skills, .education, .certifications { margin-bottom: 20px; }
+        /* Reset some default styles */
+        body, h1, h2, h3, h4, p, ul { margin: 0; padding: 0; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f7f8; color: #333; line-height: 1.6; }
+
+        /* Container for padding */
+        .container { max-width: 900px; margin: auto; padding: 20px; }
+
+        /* Header */
+        header { text-align: center; padding-bottom: 30px; }
+        header h1 { font-size: 2.8em; color: #0b3d91; }
+        header p { font-size: 1.1em; color: #555; }
+
+        /* Sections */
+        section { background: #fff; padding: 20px; margin-bottom: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); }
+        section h2 { color: #0b3d91; border-bottom: 2px solid #0b3d91; display: inline-block; margin-bottom: 15px; padding-bottom: 5px; }
+
+        /* Lists */
+        ul { list-style-type: disc; padding-left: 20px; }
+        li { margin-bottom: 10px; }
+
+        /* Contact links */
+        a { color: #0b3d91; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+
+        /* Experience cards */
+        .job { margin-bottom: 15px; }
+        .job h3 { color: #333; margin-bottom: 5px; }
+        .job h4 { color: #555; margin-bottom: 10px; }
+
+        /* Responsive */
+        @media (max-width: 600px) {
+            body { padding: 10px; }
+            header h1 { font-size: 2em; }
+        }
     </style>
 </head>
 <body>
-    <h1>Kumaresha S</h1>
-    <div class="contact">
-        <h2>Contact</h2>
-        <p>Email: <a href="mailto:kanteekumar51@gmail.com">kanteekumar51@gmail.com</a></p>
-        <p>Mobile: +91-8310075873</p>
-    </div>
-    <div class="experience">
-        <h2>Experience Summary</h2>
-        <ul>
-            <li>3+ years of experience in Software Development and Production Support of legacy applications in the Retail Industry.</li>
-            <li>Expertise in COBOL, JCL, DB2, UNIX, and Java.</li>
-            <li>Hands-on experience in AGILE (SCRUM) methodologies.</li>
-            <li>Skilled in preparing System Documents and Program-specific Documents as a knowledge repository.</li>
-        </ul>
-    </div>
-    <div class="certifications">
-        <h2>Certifications</h2>
-        <ul>
-            <li>Full Stack Java Development</li>
-        </ul>
-    </div>
-    <div class="education">
-        <h2>Education</h2>
-        <p>Bachelor of Engineering from Sambhram Institute of Technology, Bengaluru.</p>
-    </div>
-    <div class="professional-experience">
-        <h2>Professional Experience</h2>
-        <h3>HCL Technologies Ltd (April 2022 – Present)</h3>
-        <p>Role: Associate Consultant</p>
-        <p>Location: Bangalore, India</p>
-        <h4>Project: Tesco – GO Development (April 2022 – Present)</h4>
-        <ul>
-            <li>Supported technical initiatives and resolved ad-hoc user queries.</li>
-            <li>Involved in turnover meetings and source code modifications.</li>
-            <li>Performed unit testing and documented test results.</li>
-            <li>Actively participated in quality and process-related work in the team.</li>
-            <li>Collaborated with stakeholders to implement changes as per requirements.</li>
-        </ul>
+    <div class="container">
+        <header>
+            <h1>Kumaresha S</h1>
+            <p>Software Developer | COBOL, Java, DB2, UNIX | 3+ Years Experience</p>
+        </header>
+
+        <section class="contact">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:kanteekumar51@gmail.com">kanteekumar51@gmail.com</a></p>
+            <p>Mobile: +91-8310075873</p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/kumaresh-s-48a526172/">linkedin.com/in/kumaresh-s-48a526172</a></p>
+            <p>GitHub: <a href="https://github.com/KumareshaS">github.com/KumareshaS</a></p>
+        </section>
+
+        <section class="experience">
+            <h2>Experience Summary</h2>
+            <ul>
+                <li>3+ years of experience in Software Development and Production Support of legacy applications in the Retail Industry.</li>
+                <li>Expertise in COBOL, JCL, DB2, UNIX, and Java.</li>
+                <li>Hands-on experience in AGILE (SCRUM) methodologies.</li>
+                <li>Skilled in preparing System Documents and Program-specific Documents as a knowledge repository.</li>
+            </ul>
+        </section>
+
+        <section class="certifications">
+            <h2>Certifications</h2>
+            <ul>
+                <li>Full Stack Java Development</li>
+            </ul>
+        </section>
+
+        <section class="education">
+            <h2>Education</h2>
+            <p>Bachelor of Engineering from Sambhram Institute of Technology, Bengaluru.</p>
+        </section>
+
+        <section class="professional-experience">
+            <h2>Professional Experience</h2>
+
+            <div class="job">
+                <h3>HCL Technologies Ltd (April 2022 – Present)</h3>
+                <p>Role: Software Developer | Location: Bangalore, India</p>
+                <h4>Project: Tesco – GO Development</h4>
+                <ul>
+                    <li>Supported technical initiatives and resolved ad-hoc user queries.</li>
+                    <li>Involved in turnover meetings and source code modifications.</li>
+                    <li>Performed unit testing and documented test results.</li>
+                    <li>Actively participated in quality and process-related work in the team.</li>
+                    <li>Collaborated with stakeholders to implement changes as per requirements.</li>
+                </ul>
+            </div>
+        </section>
     </div>
 </body>
 </html>
