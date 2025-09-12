@@ -1,6 +1,0 @@
-Worked on gathering the requirement for the CDR estimation Activity
-Working on Unload of various tables and testing them and preparing the result file for the same
-Worked on helping along with EDS jobs run and verified whether it is published in kafka 
-Worked on unload modules and prepared new modules and tested the module and verified the data as per the DB2 data
-worked on EDS jills and tested and verified and documented and involved in deployment process
-worked on PTG PTP for the new 4th run jills preparation and tested and verified
