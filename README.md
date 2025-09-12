@@ -66,6 +66,6 @@
 ## 📬 Contact  
 - **Email:** [kanteekumar51@gmail.com](mailto:kanteekumar51@gmail.com)  
 - **LinkedIn:** *(add your LinkedIn profile link here)*  
-- **GitHub:** [github.com/kumaresha1616](https://github.com/kumareshaS)  
+- **GitHub:** [github.com/kumareshaS](https://github.com/kumareshaS)  
 
 ---
