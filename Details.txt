@@ -1,0 +1,69 @@
+Summery:
+Detail-oriented, organized, and meticulous employee. Works at fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to company success.
+
+Skill:
+Team Collaboration
+Mainframe
+Algorithm implementation
+Agile Methodologies
+Unix
+SQL
+Object-Oriented Programming
+HTML and XML
+Code reviews
+JIRA
+Spring Boot
+Shellscript
+
+
+Work Experience:
+Software Engineer, HCL Tech
+Bengaluru, India |2022 - Current
+Currently working on Java and Mainframe-related tasks.
+Updating or modifying code to implement new features, reviewing, testing, and deploying changes as per JIRA tickets.
+Deploying updates to production after testing.
+Involved in migration efforts from Mainframe systems to Spring Boot applications.
+Managing large volumes of data files, and modifying or creating modules as needed based on the code requirements.
+
+
+Technical Skills:
+Mainframe:
+JCL: Skilled in job scheduling and management using JCL.
+COBOL: Strong in COBOL for business applications.
+DB2: Experienced with DB2 for database management.
+CICS: Proficient in developing applications with CICS.
+Software Development & Testing:
+SDLC: Good grasp of the software development life cycle from start to finish.
+Smoke Testing: Experienced in basic functionality tests.
+System Testing: Proficient in validating integrated systems.
+Integration Testing: Knowledgeable in testing module interactions.
+Acceptance Testing: Ensures systems meet business requirements.
+Exploratory Testing: Skilled in finding defects through unscripted testing.
+Compatibility Testing: Ensures software works across different environments.
+Ad-hoc Testing: Capable of unstructured testing scenarios.
+Globalization Testing: Familiar with globalization standards, including 118N and LION.
+Performance Testing: Able to assess system performance under load.
+Database Management & SQL:
+RDBMS: Deep understanding of relational database management.
+SQL: Proficient in SQL, including joins, subqueries, and data types.
+PL/SQL: Knowledgeable in procedural extensions to SQL.
+SQL Developer: Experienced with SQL Developer for database management.
+Database Transactions: Understands transactions for data integrity.
+SET Operators: Experienced with SQL set operators.
+Data Conversion: Knowledgeable in data transformation techniques.
+Web Development:
+JSP and Servlets: Proficient in creating dynamic web applications with JSP and Servlets.
+JPA: Strong in object-relational mapping using JPA.
+Hibernate: Good at using Hibernate for ORM and data management.
+Spring Framework: Experienced in developing with Spring.
+Microservices: Knowledgeable in building scalable applications with microservices.
+REST API: Understands REST APIs for service communication.
+Object-Oriented Programming:
+Method Overloading: Experienced with defining multiple methods with the same name but different parameters.
+Method Overriding: Strong in redefining methods in subclasses.
+Inheritance: Proficient in creating hierarchical class structures.
+Static and Non-static: Understands class and instance-level behaviors.
+Automation Testing:
+Selenium WebDriver: Experienced in automating web tests with Selenium.
+Selenium Architecture: Knowledgeable in Selenium’s components and architecture.
+Java Selenium Architecture: Good understanding of Selenium with Java for test automation.
