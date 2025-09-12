@@ -20,7 +20,7 @@
 
 ## 💼 Professional Experience  
 
-### **HCL Technologies Ltd** *(April 2021 – Present)*  
+### **HCL Technologies Ltd** *(April 2022 – Present)*  
 **Role:** Associate Consultant  
 **Location:** Bangalore, India  
 
